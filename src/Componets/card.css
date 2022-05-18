@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+p{  
+    margin-top: 2px;
+    font-size: larger;
+    font-weight: 400;
+}
+
+.btn{
+    padding: 8px 20px ;
+   
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: whitesmoke;
+    color:black;
+  
+}
+
+.box{
+    width: 70%;
+    margin: auto;
+}
+
+.mid{
+    margin:5% 3% ;
+}
+
